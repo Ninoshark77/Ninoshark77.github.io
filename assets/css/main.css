@@ -1804,6 +1804,7 @@
 
 			.box {
 				padding: 2.75em 1.75em 2.75em 1.75em;
+				height:500px;
 			}
 
 				.box .image.featured {
